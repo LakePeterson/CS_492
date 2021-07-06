@@ -1,0 +1,4 @@
+#Mon Jun 28 23:21:10 PDT 2021
+base.0=/home/lago/Android/AndroidStudioProjects/deleteme/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
