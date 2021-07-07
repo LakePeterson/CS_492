@@ -1,5 +1,7 @@
-import 'package:adventure/adventure.dart' as adventure;
+import 'package:adventure/adventure.dart';
+import 'package:adventure/source/planetary_system.dart';
 
 void main(List<String> arguments) {
-  print('Hello world: ${adventure.calculate()}!');
+  Adventure(planetarySystem: PlanetSystem(systemName: 'Solar System'))
+      .startAdventure();
 }
