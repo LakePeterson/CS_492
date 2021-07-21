@@ -1,0 +1,25 @@
+assets folder
+_____________
+
+~ fonts/
+~ images/profile.jpg
+
+lib folder
+_____________
+
+~ components/businessCard.dart
+~ components/predictor.dart
+~ components/resume.dart
+
+~ models/magic8ball.dart
+~ models/resumeRow.dart
+
+~ screens/mainScreen.dart
+
+~ app.dart
+~ main.dart
+
+call_me_maybe folder
+___________________
+
+~ pubspec.yaml
